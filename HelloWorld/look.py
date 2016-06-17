@@ -30,8 +30,6 @@ print cat.__class__
 print type(cat)
 print type(123)
 
-print 'look'
-
 
 
 
